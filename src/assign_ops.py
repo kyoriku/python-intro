@@ -1,11 +1,11 @@
 '''
-= Assigns something from the right to the left
-+= Adds and assigns
--= Subtracts and assigns
-*= Multiplies and assigns
-/= Divides and assigns
-%= Modulus and assigns
-**= Exponentiates and assigns
+=      Assigns something from the right to the left
++=     Adds and assigns
+-=     Subtracts and assigns
+*=     Multiplies and assigns
+/=     Divides and assigns
+%=     Modulus and assigns
+**=    Exponentiates and assigns
 '''
 
 number_1 = 14 # Assign 14 to number_1
