@@ -7,7 +7,7 @@ This repository contains a collection of Python exercises and examples I complet
 ## Contents
 Each file in this repository covers specific Python programming concepts:
 
-1. **hello.py**  
+1. **hello_world.py**  
    A simple program that outputs "Hello, World!" to the console.
 
 2. **basic_math.py**  
@@ -67,7 +67,7 @@ You can then run any of the Python files with:
     python3 <filename>.py
 ```
 
-For example, to run the math_game.py script:
+For example, to run the `math_game.py` script:
 ```bash
     python3 src/math_game.py
 ```
