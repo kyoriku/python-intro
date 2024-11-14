@@ -1,9 +1,6 @@
 # Python Intro
 *Python Programming Exercises - Beginner's Guide*
 
-## Built With
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-
 ## Overview
 This repository contains a collection of Python exercises and examples I completed while following the *Intro to Python Programming - Beginner's Guide Series* by John Elder. The exercises cover basic programming concepts and are designed to help beginners get familiar with Python syntax and functionality. This series has been an excellent resource for building foundational Python skills.
 
